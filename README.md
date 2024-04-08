@@ -98,11 +98,17 @@ endmodule
 
 
 **Output Waveform**
-
-<<< Simulation output waveform paste it here >>>>>
+# 2bit Multiplier
+![Screenshot 2024-04-08 142246](https://github.com/lakshanad1306/VLSI-LAB-EXP-3/assets/161121355/80cdba4c-5a32-429a-bab4-bdb9cc1697c2)
+# 4bit Multiplier
+![Screenshot 2024-04-08 142310](https://github.com/lakshanad1306/VLSI-LAB-EXP-3/assets/161121355/7406b497-9a2b-4f9f-bac0-ee4967d69ae0)
 
 
 **Result**
+Thus simulation and synthesis multiplier using Xilinx ISE is verified successfully.
+
+
+
 
 
 
