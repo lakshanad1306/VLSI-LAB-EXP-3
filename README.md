@@ -105,6 +105,7 @@ endmodule
 
 
 **Result**
+
 Thus simulation and synthesis multiplier using Xilinx ISE is verified successfully.
 
 
